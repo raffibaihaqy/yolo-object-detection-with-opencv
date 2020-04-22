@@ -1,4 +1,4 @@
-# yolo-object-detection-with-opencv
+# How to use
 
 1. download the model from 'https://pjreddie.com/darknet/yolo/' the name file is "yolov3.weights" move it or copy paste to folder 'yolo-coco' in yolo-object-detection-with-opencv project
 2. in 'yolo_video.py' there's a variable 'vs = cv2.VideoCapture(rt)' you can change the 'rt' to '0' for your webcam laptop or '1' to external webcam
